@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/pokemonImg">
+        <file>001.png</file>
+        <file>003.png</file>
+        <file>015.png</file>
+        <file>013.png</file>
+        <file>012.png</file>
+        <file>010.png</file>
+        <file>009.png</file>
+        <file>007.png</file>
+        <file>006.png</file>
+        <file>004.png</file>
+        <file>pokemons.json</file>
+        <file>487.png</file>
+        <file>212.png</file>
+        <file>200.png</file>
+        <file>144.png</file>
+    </qresource>
+</RCC>
