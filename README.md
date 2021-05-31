@@ -1,7 +1,8 @@
 ## Project: The invasion of Pokemon
 Team : Nghia Duc Hong - Duy Anh Vu
+This is the Programming 3 course project, written using C++ and Qt.
 
-## game backstory
+## Game backstory
 In the first summer in Finland, a second year student want to discover the second-biggest city in Finland : Tampere. 
 He realizes that there is some mysterious creatures living in the Tampere city. Unluckily, he only owns a bike. 
 Your dog, Brian,is your sidekick. He also able to fight the pokemon too. But he can not use the bus as the bus driver want to keep his bus clean!
